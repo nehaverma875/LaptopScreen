@@ -6,7 +6,7 @@ import {  AiOutlineEyeInvisible } from "react-icons/ai";
  import  DataReport from '../assets/Data-report.png';
  import CompanyLogo from '../assets/logo.png';
  
-
+//abc
 const Loginpage = () => {
   return (
     <div  className=' md:overflow-hidden ' >
